@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhooks88
+- 👋 Hi, I’m Zach Hooks, a recent Computer Information Systems graduate from TXST
 - 👀 I’m interested in learning useful coding skills that will aid others in solving real-world issues.
 - 🌱 I’m currently learning python and JavaScript.
 - 💞️ I’m looking to collaborate on beginner/novice projects that will help me learn strong logic and syntax habits.
